@@ -1,4 +1,15 @@
-### Hi there 👋
+<p align="center">
+  <a href="http://blog.emmanuelgautier.fr/">Website</a> -
+  <a href="https://twitter.com/gautier_manu">@emmanuelgautier</a> -
+  <a href="https://www.linkedin.com/in/emmanuelgautier1">LinkedIn</a>
+</p>
+
+Hi 👋, I'm Emmanuel, a solution architect and fullstack developer living in France.
+
+---
+
+[![emmanuelgautier's github stats](https://github-readme-stats.vercel.app/api?username=emmanuelgautier)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **emmanuelgautier/emmanuelgautier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
