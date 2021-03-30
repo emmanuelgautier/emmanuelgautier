@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.emmanuelgautier.com/">Website</a> -
-  <a href="https://twitter.com/gautier_manu">@emmanuelgautier</a> -
+  <a href="https://twitter.com/gautier_manu">@gautier_manu</a> -
   <a href="https://www.linkedin.com/in/emmanuelgautier1">LinkedIn</a>
 </p>
 
