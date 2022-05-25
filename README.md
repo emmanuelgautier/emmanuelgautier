@@ -4,12 +4,11 @@
   <a href="https://www.linkedin.com/in/emmanuelgautier1">LinkedIn</a>
 </p>
 
-Hi 👋, I'm Emmanuel, a solution architect and fullstack developer living in France.
+Hi 👋, I'm Emmanuel, a Software Engineer & Solutions Architect living in France. Tech enthusiast!
 
 ---
 
-[![emmanuelgautier's github stats](https://github-readme-stats.vercel.app/api?username=emmanuelgautier)](https://github.com/anuraghazra/github-readme-stats)
-
+[![emmanuelgautier's github stats](https://github-readme-stats.vercel.app/api?username=emmanuelgautier)](https://github.com/emmanuelgautier)
 
 <!--
 **emmanuelgautier/emmanuelgautier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
