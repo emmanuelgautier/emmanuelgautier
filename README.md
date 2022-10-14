@@ -15,6 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Publish multiple projects on a Monorepo on Cloudflare Pages](https://www.emmanuelgautier.com/blog/monorepo-publish-with-cloudflare-pages)
+- [Convert a JavaScript object to queryparams string](https://www.emmanuelgautier.com/blog/convert-object-to-querystring)
+- [Succeeding understanding tech as a non-technical person](https://www.emmanuelgautier.com/blog/understanding-tech-as-non-technical-person)
+- [MySQL Docker Image for Mac ARM M1](https://www.emmanuelgautier.com/blog/mysql-docker-arm-m1)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
