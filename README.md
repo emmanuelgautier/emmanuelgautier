@@ -26,7 +26,7 @@
 <a href="https://twitter.com/gautier_manu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautier_manu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emmanuelgautier1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuelgautier1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4676103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4676103" height="30" width="40" /></a>
-<a href="/https://www.emmanuelgautier.com/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.emmanuelgautier.com/rss.xml" height="30" width="40" /></a>
+<a href="https://www.emmanuelgautier.com/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.emmanuelgautier.com/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
