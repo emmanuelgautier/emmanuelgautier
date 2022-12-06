@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Publish on Cloudflare Pages with unsupported language versions](https://www.emmanuelgautier.com/blog/publish-with-cloudflare-pages-unsupported-versions)
 - [How to fix DNS Internal Resolution inside the Nginx docker container](https://www.emmanuelgautier.com/blog/nginx-docker-dns-resolution)
 - [Extends Express session SessionData type](https://www.emmanuelgautier.com/blog/extends-expressjs-session-typescript-sessiondata)
 - [Keep the same Node.js version between local environment and Github Actions](https://www.emmanuelgautier.com/blog/keep-node-version-github-actions-local-development)
-- [Publish multiple projects on a Monorepo on Cloudflare Pages](https://www.emmanuelgautier.com/blog/monorepo-publish-with-cloudflare-pages)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
