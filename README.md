@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Solve React error &quot;Property autocomplete does not exist on type&quot;](https://www.emmanuelgautier.com/blog/react-input-autocomplete-props)
 - [How to use Chakra UI Button and Link components with NextJS Link](https://www.emmanuelgautier.com/blog/chakra-link-button-nextjs-link)
 - [How to solve Envoy &quot;Jwks remote fetch is failed&quot; error response](https://www.emmanuelgautier.com/blog/envoy-jwks-remote-fetch-failed)
 - [Publish on Cloudflare Pages with unsupported language versions](https://www.emmanuelgautier.com/blog/publish-with-cloudflare-pages-unsupported-versions)
-- [How to fix DNS Internal Resolution inside the Nginx docker container](https://www.emmanuelgautier.com/blog/nginx-docker-dns-resolution)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
