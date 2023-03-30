@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Formatting Big Numbers in JavaScript](https://www.emmanuelgautier.com/blog/formatting-big-numbers-javascript)
+- [Changing Document Field Types with MongoDB](https://www.emmanuelgautier.com/blog/mongodb-convert-operator)
 - [Solve React error &quot;Property autocomplete does not exist on type&quot;](https://www.emmanuelgautier.com/blog/react-input-autocomplete-props)
 - [How to use Chakra UI Button and Link components with NextJS Link](https://www.emmanuelgautier.com/blog/chakra-link-button-nextjs-link)
-- [How to solve Envoy &quot;Jwks remote fetch is failed&quot; error response](https://www.emmanuelgautier.com/blog/envoy-jwks-remote-fetch-failed)
-- [Publish on Cloudflare Pages with unsupported language versions](https://www.emmanuelgautier.com/blog/publish-with-cloudflare-pages-unsupported-versions)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
