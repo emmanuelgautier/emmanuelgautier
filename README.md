@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Configure yarn version for Cloudflare page build](https://www.emmanuelgautier.com/blog/cloudflare-page-build-yarn-version)
 - [How to pass a String Map as a Command-Line argument in Go](https://www.emmanuelgautier.com/blog/string-map-command-argument-go)
 - [Introducing new blog on OAuth, OpenID Connect, and IAM Solutions](https://www.emmanuelgautier.com/blog/cerberauth-new-blog-post)
 - [Formatting Big Numbers in JavaScript](https://www.emmanuelgautier.com/blog/formatting-big-numbers-javascript)
-- [Changing Document Field Types with MongoDB](https://www.emmanuelgautier.com/blog/mongodb-convert-operator)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
