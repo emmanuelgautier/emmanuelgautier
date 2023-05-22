@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Read Package.json file from Node.JS module](https://www.emmanuelgautier.com/blog/read-package-json-node-module)
+- [Import a JSON file content from a Node.JS module](https://www.emmanuelgautier.com/blog/node-module-import-assert-json)
 - [Configure yarn version for Cloudflare page build](https://www.emmanuelgautier.com/blog/cloudflare-page-build-yarn-version)
 - [How to pass a String Map as a Command-Line argument in Go](https://www.emmanuelgautier.com/blog/string-map-command-argument-go)
-- [Introducing new blog on OAuth, OpenID Connect, and IAM Solutions](https://www.emmanuelgautier.com/blog/cerberauth-new-blog-post)
-- [Formatting Big Numbers in JavaScript](https://www.emmanuelgautier.com/blog/formatting-big-numbers-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
