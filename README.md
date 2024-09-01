@@ -15,10 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Read Package.json file from Node.JS module](https://www.emmanuelgautier.com/blog/read-package-json-node-module)
-- [Import a JSON file content from a Node.JS module](https://www.emmanuelgautier.com/blog/node-module-import-assert-json)
-- [Configure yarn version for Cloudflare page build](https://www.emmanuelgautier.com/blog/cloudflare-page-build-yarn-version)
-- [How to pass a String Map as a Command-Line argument in Go](https://www.emmanuelgautier.com/blog/string-map-command-argument-go)
+- [Migrate URLs in Next.js](https://www.emmanuelgautier.com/blog/migrate-urls-nextjs)
+- [Use REST API with Terraform](https://www.emmanuelgautier.com/blog/terraform-rest-api)
+- [Optimizing ESLint Performance with TIMING and Caching](https://www.emmanuelgautier.com/blog/optimize-eslint-performance)
+- [How to solve Docker compose error &quot;.labels array items must be unique&quot;?](https://www.emmanuelgautier.com/blog/solve-docker-compose-labels-must-unique)
+- [Installing Production-Only Dependencies with Dev Dependency Hooks in Node.js](https://www.emmanuelgautier.com/blog/install-production-only-dependencies-with-dev-dependency-hooks-node)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
