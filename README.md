@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile. I am a **Software Engineer** Freelance from 🇫🇷 Nantes, France. I am a **big fan of Open Source** and also **passionate about secure coding** and more globally cybersecurity topics.
 
-I am also a blogger and I write technical articles on my blog about various topics [emmanuelgautier.com](https://www.emmanuelgautier.com). You can also find some more cyber security related articles on my [CerberAuth blog](https://www.cerberauth.com/blog/).
+I am also a blogger and I write technical articles on my [technical blog](https://www.emmanuelgautier.com) about various topics. You can also find some more cyber security related articles on my [CerberAuth blog](https://www.cerberauth.com/blog/).
 
 *Fun fact*: I think my jokes are funny 😄
 
