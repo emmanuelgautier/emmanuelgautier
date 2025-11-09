@@ -47,9 +47,9 @@ I am also a blogger and I write technical articles on my [technical blog](https:
 ## My Latest Technical blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to pass npm flag with Cloudflare workers during install](https://www.emmanuelgautier.com/blog/npm-flag-with-cloudflare-workers)
+- [Missing Authorization header in Apache](https://www.emmanuelgautier.com/blog/apache-missing-auth-header)
 - [Migrate URLs in Next.js](https://www.emmanuelgautier.com/blog/migrate-urls-nextjs)
 - [Use REST API with Terraform](https://www.emmanuelgautier.com/blog/terraform-rest-api)
 - [Optimizing ESLint Performance with TIMING and Caching](https://www.emmanuelgautier.com/blog/optimize-eslint-performance)
-- [How to solve Docker compose error &quot;.labels array items must be unique&quot;?](https://www.emmanuelgautier.com/blog/solve-docker-compose-labels-must-unique)
-- [Installing Production-Only Dependencies with Dev Dependency Hooks in Node.js](https://www.emmanuelgautier.com/blog/install-production-only-dependencies-with-dev-dependency-hooks-node)
 <!-- BLOG-POST-LIST:END -->
