@@ -6,20 +6,6 @@ I am also a blogger and I write technical articles on my [technical blog](https:
 
 *Fun fact*: I think my jokes are funny 😄
 
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=emmanuelgautier&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&&theme=dark&cache_seconds=86400"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=emmanuelgautier&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&cache_seconds=86400"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=emmanuelgautier&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&cache_seconds=86400" />
-  </picture>
-</p>
-
 ## Some Open Source Projects
 
 | Project | Description | Stars | Forks |
