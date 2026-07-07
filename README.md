@@ -33,9 +33,9 @@ I am also a blogger and I write technical articles on my [technical blog](https:
 ## My Latest Technical blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to pass npm flag with Cloudflare workers during install](https://www.emmanuelgautier.com/blog/npm-flag-with-cloudflare-workers)
-- [Missing Authorization header in Apache](https://www.emmanuelgautier.com/blog/apache-missing-auth-header)
-- [Migrate URLs in Next.js](https://www.emmanuelgautier.com/blog/migrate-urls-nextjs)
-- [Use REST API with Terraform](https://www.emmanuelgautier.com/blog/terraform-rest-api)
-- [Optimizing ESLint Performance with TIMING and Caching](https://www.emmanuelgautier.com/blog/optimize-eslint-performance)
+- [How to pass npm flag with Cloudflare workers during install](https://www.emmanuelgautier.com/blog/npm-flag-with-cloudflare-workers/)
+- [Missing Authorization header in Apache](https://www.emmanuelgautier.com/blog/apache-missing-auth-header/)
+- [Migrate URLs in Next.js](https://www.emmanuelgautier.com/blog/migrate-urls-nextjs/)
+- [Use REST API with Terraform](https://www.emmanuelgautier.com/blog/terraform-rest-api/)
+- [Optimizing ESLint Performance with TIMING and Caching](https://www.emmanuelgautier.com/blog/optimize-eslint-performance/)
 <!-- BLOG-POST-LIST:END -->
